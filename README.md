@@ -1,10 +1,9 @@
 # PROPOSAL
 
-## By : - Sanket Barman (2K19/CO/339)
+## By : - Sanyam Srivastava 
 
-```
-Sanyam Srivastava (2K19/CO/341)
-```
+
+
 # TOPIC : - Secure File Storage on Cloud Using Cryptography
 
 **Introduction:**
